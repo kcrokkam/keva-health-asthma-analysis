@@ -1,4 +1,3 @@
-[KEVA Health_AQI-Asthma_Correlation_Analysis.pptx](https://github.com/user-attachments/files/35099831/KEVA.Health_AQI-Asthma_Correlation_Analysis.pptx)
 
 # Keva Health | Healthcare Analytics & Statistical Modeling
 
@@ -22,7 +21,7 @@ Proposed using these findings to inform AQI-based patient alerts and asthma risk
 
 ## Project Presentation
 
-📄 [View Full Project Presentation](Keva_Health_Asthma_Analysis.pdf)
+📄 [View Full Project Presentation]([Keva_Health_Asthma_Analysis.pdf](https://github.com/kcrokkam/keva-health-asthma-analysis/blob/main/KEVA%20Health_AQI-Asthma_Correlation_Analysis.pptx))
 
 ## Tools
 
