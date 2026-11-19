@@ -47,4 +47,3 @@ These are **observational associations**, not estimates of the number of ER visi
 - [California Health & Human Services Open Data](https://data.chhs.ca.gov/)
 - [EPA Air Quality System data](https://aqs.epa.gov/aqsweb/airdata/download_files.html)
 
-*Prepared from the original 20-slide ALY6080 Group 7 presentation. This Markdown document is a readable presentation overview, not the original PDF.*
