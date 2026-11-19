@@ -21,7 +21,7 @@ Proposed using these findings to inform AQI-based patient alerts and asthma risk
 
 ## Project Presentation
 
-📄 [To View Full Project Presentation - Download pptx file from the repository]
+📄 [View the project presentation overview](PRESENTATION.md)
 
 ## Tools
 
