@@ -1,9 +1,5 @@
 # Keva Health — Air Quality and Asthma Emergency Visits
 
-**Integrated Experiential Learning · ALY6080 · Spring 2021**  
-**Presentation:** June 24, 2021  
-**Group 7:** Krishna Chaitanya Rokkam and Li-Ying Wang
-
 ## Research objective
 
 Examine associations between air quality and asthma-related emergency department visits in California, and explore how findings might inform Keva Health's patient education and alert design.
